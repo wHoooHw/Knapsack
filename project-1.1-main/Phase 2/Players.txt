@@ -1,0 +1,27 @@
+#Abood : 545
+#samer : 12
+#Abood ya man : 21
+d : 1
+#Abood : 25
+#Abood : 20
+#Abood : 30
+#Fares : 35
+#Muhsen : 10
+#Muhsen : 37
+#Muhsen : 7
+#Muhsen : 22
+#Muhsen : 20
+#naser : 33
+#Jan : 22
+#Jan : 27
+#Jan : 14
+#sardine : 13
+#Momo : 36
+#sasa : 18
+d : 0
+#Abood : 1
+#Ahmad : 18
+d : 0
+#noone : 12
+#No one : 14
+#No one : 10

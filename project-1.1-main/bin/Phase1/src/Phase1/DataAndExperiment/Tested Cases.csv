@@ -1,0 +1,147 @@
+
+5,5,[Z, X, P, N, F],33 False
+
+6,6,[W, Y, L, T, U, V],17 False
+
+7,7,[Z, X, P, N, F, W, Y],15 False
+
+8,8,[L, T, U, V, Z, X, P, N],17 False
+
+9,9,[F, W, Y, L, T, U, V, Z, X],20 False
+
+10,5,[Z, X, P, N, F, W, Y, L, T],21 False
+5,10,[U, V, Z, X, P, N, F, W, Y, L],223
+
+6,7,[Z, X, P, N, F, W, Y],32 False
+
+7,6,[L, T, U, V, Z, X, P],39 False
+
+8,7,[N, F, W, Y, L, T, U, V],14 False
+
+9,8,[Z, X, P, N, F, W, Y, L, T],10 False
+
+10,9,[U, V, Z, X, P, N, F, W, Y],8 False
+5,11,[L, T, U, V, Z, X, P, N, F, W, Y],1509
+11,5,[Z, X, P, N, F, W, Y, L, T, U, V],338
+
+6,8,[W, Y, L, T, U, V, Z, X],16 False
+
+8,6,[P, N, F, W, Y, L, T, U],8 False
+
+7,9,[Z, X, P, N, F, W, Y, L, T],24 False
+
+9,7,[U, V, Z, X, P, N, F, W],8 False
+
+10,8,[Y, L, T, U, V, Z, X, P, N],13 False
+
+8,10,[F, W, Y, L, T, U, V, Z, X],5 False
+
+5,5,[L, T, U, V, Z],11 False
+
+6,6,[P, N, F, W, Y, X],7 False
+
+7,7,[L, T, U, V, Z, X, P],9 False
+
+8,8,[N, F, W, Y, L, T, U, V],21 False
+
+9,9,[Z, X, P, N, F, W, Y, L, T],7 False
+
+10,5,[U, V, Z, X, P, N, F, W, Y],8 False
+5,10,[L, T, U, V, Z, X, P, N, F, W],4666
+
+6,7,[W, Y, L, T, U, V, Z],9 False
+
+7,6,[X, P, N, F, W, Y, L],9 False
+
+8,7,[T, U, V, Z, X, P, N],7 False
+
+9,8,[F, W, Y, L, T, U, V, Z],12 False
+
+10,9,[X, P, N, F, W, Y, L, T, U],10 False
+5,11,[V, Z, X, P, N, F, W, Y, L, T, U],817
+11,5,[Z, X, P, N, F, W, Y, L, T, U, V],347
+
+6,8,[Y, L, T, U, V, Z, X, P],9 False
+
+8,6,[N, F, W, Y, L, T, U, V],10 False
+
+7,9,[X, P, N, F, W, Y, L, T, U],14 False
+
+9,7,[Z, X, P, N, F, W, Y, L],6 False
+
+10,8,[T, U, V, Z, X, P, N, F, W],6 False
+
+8,10,[Y, L, T, U, V, Z, X, P, N, F],5 False
+
+5,5,[L, T, Z, X, P],10 False
+
+5,6,[F, W, Y, L, T, Z],33 False
+
+5,7,[U, V, Z, X, P, N, F],42 False
+5,8,[W, Y, L, T, U, V, Z, X],78
+5,9,[P, N, F, W, Y, L, T, U, V],141
+5,10,[Z, X, P, N, F, W, Y, L, T, U],45
+5,12,[Z, X, P, N, F, W, Y, L, T, U, V, Z],80
+5,13,[X, P, N, F, W, Y, L, T, U, V, Z, X, P],2291
+
+5,14,[P, N, F, W, Y, L, T, U, V, Z, X, P, N],5 False
+
+5,15,[N, F, W, Y, L, T, U, V, Z, X, P, N, F, W],5 False
+
+5,16,[F, W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L],7 False
+
+5,17,[W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L, T, U],3 False
+
+5,18,[Y, L, T, U, V, Z, X, P, N, F, W, Y, L, T, U, V, Z],6 False
+
+5,19,[L, T, U, V, Z, X, P, N, F, W, Y, L, T, U, V, Z, X, P],5 False
+
+5,20,[T, U, V, Z, X, P, N, F, W, Y, L, T, U, V, Z, X, P, N, F],4 False
+
+5,5,[F, W, Y, L, T],5 False
+
+5,6,[Z, X, P, N, F, W],5 False
+
+5,7,[Y, L, T, U, V, Z, X],236 False
+5,8,[P, N, F, W, Y, L, T, U],253
+5,9,[V, Z, X, P, N, F, W, Y, L],38
+5,10,[T, U, V, Z, X, P, N, F, W, Y],1301
+5,11,[L, T, U, V, Z, X, P, N, F, W, Y],867
+5,12,[T, U, V, Z, X, P, N, F, W, Y, L, T],77
+5,13,[U, V, Z, X, P, N, F, W, Y, L, T, U, V],28927
+5,14,[V, Z, X, P, N, F, W, Y, L, T, U, V, Z, X],6468
+5,15,[Z, X, P, N, F, W, Y, L, T, U, V, Z, X, P, N],39437
+5,17,[P, N, F, W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L],1519
+5,18,[N, F, W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L, T, U],13161
+5,19,[F, W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L, T, U, V, Z],1654
+
+5,5,[L, T, U, V, Z],9 False
+
+5,6,[X, P, N, F, W, Y],11 False
+
+5,7,[L, T, U, V, Z, X, P],130 False
+5,8,[N, F, W, Y, L, T, U, V],86
+5,9,[Z, X, P, N, F, W, Y, L, T],284
+5,10,[U, V, Z, X, P, N, F, W, Y, L],111
+5,11,[T, U, V, Z, X, P, N, F, W, Y, L],487
+5,12,[V, Z, X, P, N, F, W, Y, L, T, U, V],3074
+5,13,[Z, X, P, N, F, W, Y, L, T, U, V, Z, X],143
+5,14,[X, P, N, F, W, Y, L, T, U, V, Z, X, P, N],31348
+5,15,[P, N, F, W, Y, L, T, U, V, Z, X, P, N, F, W],7691
+5,16,[N, F, W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L],5436
+5,17,[F, W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L, T, U],20409
+5,18,[W, Y, L, T, U, V, Z, X, P, N, F, W, Y, L, T, U, V, Z],40652
+
+5,5,[P, L, T, U, N],65 False
+
+5,6,[W, V, Z, Y, X, F],16 False
+5,7,[P, L, T, U, N, W, V],71
+5,8,[Z, Y, X, F, P, L, T, U],4
+5,9,[N, W, V, Z, Y, X, F, P, L],178
+5,10,[T, U, N, W, V, Z, Y, X, F, P],3800
+5,11,[U, N, W, V, Z, Y, X, F, P, L, T],213
+5,12,[N, W, V, Z, Y, X, F, P, L, T, U, N],324
+5,13,[W, V, Z, Y, X, F, P, L, T, U, N, W, V],18283
+5,14,[V, Z, Y, X, F, P, L, T, U, N, W, V, Z, Y],955
+5,15,[Z, Y, X, F, P, L, T, U, N, W, V, Z, Y, X, F],116
+5,17,[X, F, P, L, T, U, N, W, V, Z, Y, X, F, P, L, T, U],53

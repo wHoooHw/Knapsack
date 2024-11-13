@@ -1,0 +1,117 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MyData",
+            "request": "launch",
+            "mainClass": "Phase3.Data3D.MyData",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "Trainer",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.GeneticAlgorithmForDLX.Trainer",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "HillClimbing",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.MySolvers.HC.HillClimbing",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "SumCombinationFinder",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.MySolvers.SumCombinationFinder",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "GreedyWithBacktracking",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.MySolvers.GreedyWithBacktracking",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "Greedy",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.MySolvers.Greedy",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "DNA",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.GeneticAlgorithm3D.DNA",
+            "projectName": "project-1.1_afb5a5b8",
+            "vmArgs": [
+                "-Xmx4g"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "DLXSolver",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.MySolvers.DLXSolver",
+            "projectName": "project-1.1_afb5a5b8",
+            "vmArgs": [
+                "-Xmx4g"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "GA",
+            "request": "launch",
+            "mainClass": "Phase3.MyBackend.GeneticAlgorithm3D.GA",
+            "projectName": "project-1.1_afb5a5b8",
+            "vmArgs": [
+                "-Xmx8g"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "PentominoDatabase",
+            "request": "launch",
+            "mainClass": "Phase1.src.Phase1.DataConstructor.PentominoDatabase",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "DLXMain",
+            "request": "launch",
+            "mainClass": "Phase1.src.Phase1.Solvers.DLX.DLXMain",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "Phase3.Main3",
+            "projectName": "project-1.1_afb5a5b8",
+            "vmArgs": "--module-path F:\\Users\\alfaa\\Downloads\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "project-1.1_afb5a5b8"
+        },
+        {
+            "type": "java",
+            "name": "Pentris",
+            "request": "launch",
+            "mainClass": "Pentris",
+            "projectName": "project-1.1_afb5a5b8",
+            "vmArgs": "--module-path F:\\Users\\alfaa\\Downloads\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
